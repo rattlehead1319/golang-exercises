@@ -9,3 +9,7 @@ https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
 https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
 https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
 
+Benchmarking
+
+https://dave.cheney.net/2013/06/30/how-to-write-benchmarks-in-go
+https://www.soroushjp.com/2015/01/27/beautifully-simple-benchmarking-with-go/
