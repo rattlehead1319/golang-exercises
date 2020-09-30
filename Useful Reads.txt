@@ -2,3 +2,10 @@ Memory Allocation
 
 https://medium.com/a-journey-with-go/go-memory-management-and-allocation-a7396d430f44
 https://deepu.tech/memory-management-in-golang/#:~:text=Go's%20memory%20management%20involves%20automatic,is%20well%20optimized%20and%20efficient.
+
+Scheduling
+
+https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part1.html
+https://www.ardanlabs.com/blog/2018/08/scheduling-in-go-part2.html
+https://www.ardanlabs.com/blog/2018/12/scheduling-in-go-part3.html
+
